@@ -51,3 +51,6 @@ tmp/
 # Windows
 Desktop.ini
 Thumbs.db
+
+# Private files
+notionfy.sh
